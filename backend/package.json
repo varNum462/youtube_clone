@@ -1,0 +1,31 @@
+{
+  "name": "yt-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitchOlson1/YT-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitchOlson1/YT-Backend/issues"
+  },
+  "homepage": "https://github.com/MitchOlson1/YT-Backend#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "joi": "^17.6.0",
+    "mongoose": "^6.2.10",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.15",
+    "react-dotenv": "^0.1.3"
+  }
+}

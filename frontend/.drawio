@@ -1,0 +1,85 @@
+<mxfile host="65bd71144e">
+<<<<<<< HEAD
+    <diagram id="OcVGy8T2QFqsXuOD-x_b" name="Page-1">
+        <mxGraphModel dx="1184" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <object label="" id="0">
+                    <mxCell/>
+                </object>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="search bar" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry y="30" width="850" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry y="80" width="640" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="80" width="170" height="720" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;h1&gt;Video Title&lt;/h1&gt;&lt;div&gt;Video descriptiom&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry y="400" width="640" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="created by:&lt;br&gt;&lt;br&gt;created on:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="400" width="210" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="380" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="VIDEO PLAYER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="185" width="280" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="380" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Related&lt;br&gt;Videos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="180" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="370" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="nav bar" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+                    <mxGeometry y="-30" width="850" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="group;sketch=1;" vertex="1" connectable="0" parent="1">
+                    <mxGeometry y="497" width="640" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Comment" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="16">
+                    <mxGeometry width="640" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="replies" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="16">
+                    <mxGeometry x="40" y="51" width="590" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="group;sketch=1;" vertex="1" connectable="0" parent="1">
+                    <mxGeometry y="640" width="640" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Comment" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="17">
+                    <mxGeometry width="640" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="replies" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="17">
+                    <mxGeometry x="40" y="51" width="590" height="50" as="geometry"/>
+=======
+    <diagram id="A6M_0kUlQf8JloQpOc8q" name="Page-1">
+        <mxGraphModel dx="1050" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;p style=&quot;line-height: 1.1&quot;&gt;Comments&lt;/p&gt;&lt;p style=&quot;line-height: 1.1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="460" width="380" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="SearchBar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="10" width="690" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Related&lt;br&gt;Vids" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="473.75" y="291.25" width="542.5" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Video Player" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="110" width="540" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Title/VideoDescription" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="390" width="320" height="60" as="geometry"/>
+>>>>>>> d00fa2b78c807987415cef74a0315ee85c90f93b
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
